@@ -17,6 +17,7 @@ Aplikacija omogoča uporabnikom, da:
 
 - Slika 1:
 
+![image](https://github.com/user-attachments/assets/4dfa283f-5317-4dc8-9d2e-b33372bbe0e2)
 
 
 ## Uporabljeni API-ji
